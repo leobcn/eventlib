@@ -4,7 +4,7 @@ A lightweight event library for Go, written in Go.
 
 ## How to use
 
-```
+```language-go
 
 import (
     
